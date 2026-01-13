@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Discord](https://img.shields.io/discord/YOUR_DISCORD_ID?color=5865F2&logo=discord&logoColor=white)](https://discord.gg/YOUR_INVITE_LINK)
-[![Twitter Follow](https://img.shields.io/twitter/follow/YOUR_TWITTER_HANDLE?style=social)](https://twitter.com/YOUR_TWITTER_HANDLE)
+[![Twitter Follow](https://img.shields.io/twitter/follow/YOUR_TWITTER_HANDLE?style=social)](https://x.com/akasha_insight)
 
 > **Web3 投研 | 链上数据分析 | 社区共建知识库**
 
