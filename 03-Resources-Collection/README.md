@@ -1,13 +1,17 @@
-# 🧰 工具箱 (Resources Collection)
+# 🧰 工具箱
 
-> 好用的 Web3 工具、必读资料、优质社区——收藏这一篇就够了
+> 好用的 Web3 工具、必读资料、优质社区——收藏这篇就够了
 
-## 本模块内容
+---
 
-| 目录 | 说明 |
+## 📄 本模块内容
+
+| 页面 | 说明 |
 |------|------|
-| 🔧 [essential-tools.md](./essential-tools.md) | Web3 必备工具清单 |
-| 📚 [must-read-whitepapers.md](./must-read-whitepapers.md) | 必读白皮书和文章 |
-| 👥 [communities.md](./communities.md) | 优质社区和关注列表 |
+| [Web3 必备工具清单](./essential-tools.md) | 链上分析、交易、安全、监控工具一网打尽 |
+| [必读资料清单](./must-read-whitepapers.md) | 白皮书、书单、经典文章 |
+| [优质社区与关注列表](./communities.md) | Discord / Twitter / YouTube 优质信息源 |
+
+---
 
 > 💡 **推荐阅读顺序：** 工具清单 → 必读资料 → 优质社区

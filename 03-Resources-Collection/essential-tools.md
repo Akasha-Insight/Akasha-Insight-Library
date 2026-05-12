@@ -1,6 +1,6 @@
-# 🔧 Web3 必备工具清单 (2025 版)
+# Web3 必备工具清单
 
-> 按用途分类，星标表示推荐度 ⭐
+> 按用途分类，⭐ 表示推荐度
 
 ---
 
@@ -8,21 +8,21 @@
 
 | 工具 | 用途 | 费用 | 推荐 |
 |------|------|------|------|
-| [Dune Analytics](https://dune.com) | 链上 SQL 查询 + 可视化看板 | 免费 / Pro $390/yr | ⭐⭐⭐⭐⭐ |
+| [Dune Analytics](https://dune.com) | SQL 查询 + 可视化看板 | 免费 / Pro $390/yr | ⭐⭐⭐⭐⭐ |
 | [Nansen](https://nansen.ai) | Smart Money 标签 + 链上监控 | $150+/月 | ⭐⭐⭐⭐ |
-| [Arkham Intelligence](https://arkhamintelligence.com) | 地址实体标注 + 可视化图谱 | 免费/Pro | ⭐⭐⭐⭐ |
+| [Arkham Intelligence](https://arkhamintelligence.com) | 地址标注 + 可视化图谱 | 免费 / Pro | ⭐⭐⭐⭐ |
 | [DeBank](https://debank.com) | 多链资产管理 + 授权查询 | 免费 | ⭐⭐⭐⭐⭐ |
-| [DefiLlama](https://defillama.com) | TVL 对比、收益比较、协议数据 | 免费 | ⭐⭐⭐⭐⭐ |
-| [TokenTerminal](https://tokenterminal.com) | 协议收入/财务数据分析 | 免费/Pro | ⭐⭐⭐⭐ |
+| [DefiLlama](https://defillama.com) | TVL 对比、收益比较 | 免费 | ⭐⭐⭐⭐⭐ |
+| [TokenTerminal](https://tokenterminal.com) | 协议收入 / 财务数据 | 免费 / Pro | ⭐⭐⭐⭐ |
 
 ## 💱 去中心化交易
 
 | 工具 | 用途 | 推荐 |
 |------|------|------|
 | [Uniswap](https://uniswap.org) | 最大 DEX，多链部署 | ⭐⭐⭐⭐⭐ |
-| [1inch](https://1inch.io) | 聚合路由，最优价格 | ⭐⭐⭐⭐⭐ |
+| [1inch](https://1inch.io) | 聚合路由，找最优价格 | ⭐⭐⭐⭐⭐ |
 | [CowSwap](https://cowswap.exchange) | MEV 保护，Gasless 订单 | ⭐⭐⭐⭐ |
-| [Jupiter](https://jup.ag) | Solana 生态最佳 DEX 聚合器 | ⭐⭐⭐⭐⭐ |
+| [Jupiter](https://jup.ag) | Solana 生态最佳聚合器 | ⭐⭐⭐⭐⭐ |
 
 ## 🛡️ 安全工具
 
@@ -37,7 +37,7 @@
 
 | 工具 | 用途 | 推荐 |
 |------|------|------|
-| [CoinGecko](https://coingecko.com) | 币种基础数据 + 合约地址验证 | ⭐⭐⭐⭐⭐ |
+| [CoinGecko](https://coingecko.com) | 币价 + 合约地址验证 | ⭐⭐⭐⭐⭐ |
 | [CoinMarketCap](https://coinmarketcap.com) | 同 CoinGecko，更多 KOL 内容 | ⭐⭐⭐⭐ |
 | [Messari](https://messari.io) | 深度研报 + 数据仪表盘 | 部分免费 | ⭐⭐⭐⭐ |
 | [The Block](https://theblock.co) | 行业新闻 + 数据图表 | 部分免费 | ⭐⭐⭐⭐ |
@@ -47,9 +47,13 @@
 
 | 工具 | 用途 | 推荐 |
 |------|------|------|
-| [Etherscan Alert](https://etherscan.io) | 地址交易邮件告警 | 免费 | ⭐⭐⭐⭐ |
+| [Etherscan Alerts](https://etherscan.io) | 地址交易邮件告警 | 免费 | ⭐⭐⭐⭐ |
 | [DexScreener](https://dexscreener.com) | 新币交易实时监控 | 免费 | ⭐⭐⭐⭐⭐ |
-| [Birdeye](https://birdeye.so) | Solana 链代币 K 线 + 交易分析 | 免费 | ⭐⭐⭐⭐ |
+| [Birdeye](https://birdeye.so) | Solana 代币 K 线 + 分析 | 免费 | ⭐⭐⭐⭐ |
 | [Zapper](https://zapper.fi) | 多链 DeFi 持仓管理 | 免费 | ⭐⭐⭐⭐ |
 
+---
+
 > 💡 **初学者建议：** 先从免费的 Dune + DefiLlama + CoinGecko 开始，基本够用
+
+**🔙 [返回工具箱](./../README.md)**
