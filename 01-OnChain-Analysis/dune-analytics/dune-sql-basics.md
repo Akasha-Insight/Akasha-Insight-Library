@@ -124,4 +124,8 @@ LIMIT 20
 3. 尝试自己写一个简单的查询 → 从 `SELECT * FROM ethereum.transactions LIMIT 10` 开始
 4. 加入 [Dune 官方 Discord](https://discord.gg/dune) → 在 `#queries` 频道学习大佬写法
 
-> 📚 **下一步：** 学习 [Dune SQL 进阶技巧 →](../dune-advanced-guide.md)
+> 📚 **下一步：** 多写多练，加入 [Dune 官方 Discord](https://discord.gg/dune) 学习大佬的查询技巧
+
+---
+
+**⬅️ [返回链上分析](./../README.md)**

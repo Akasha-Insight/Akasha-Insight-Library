@@ -9,3 +9,5 @@
 | 🔧 [essential-tools.md](./essential-tools.md) | Web3 必备工具清单 |
 | 📚 [must-read-whitepapers.md](./must-read-whitepapers.md) | 必读白皮书和文章 |
 | 👥 [communities.md](./communities.md) | 优质社区和关注列表 |
+
+> 💡 **推荐阅读顺序：** 工具清单 → 必读资料 → 优质社区

@@ -1,7 +1,6 @@
 # 🔮 Akasha-Insight 学习资源库 (Learning Hub)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Discord](https://img.shields.io/discord/YOUR_DISCORD_ID?color=5865F2&logo=discord&logoColor=white)](https://discord.gg/YOUR_INVITE_LINK)
 [![Twitter Follow](https://img.shields.io/twitter/follow/akasha_insight?style=social)](https://x.com/akasha_insight)
 
 > **Web3 投研 | 链上数据分析 | 社区共建知识库**
@@ -12,24 +11,18 @@
 
 本仓库目前包含以下主要模块：
 
-* **📂 00-Start-Here (新手入门)**
-    * Web3 基础概念与术语表
-    * 钱包安全与防骗指南（**必读**）
-* **📂 01-OnChain-Analysis (链上数据)**
-    * Dune SQL 实战教程
-    * Nansen/Arkham 使用技巧
-    * 聪明的钱 (Smart Money) 追踪方法
-* **📂 02-Investment-Research (投研中心)**
-    * 项目研报标准模板
-    * DeFi / GameFi / Infra 赛道深度解析
-    * 代币经济学 (Tokenomics) 拆解
-* **📂 03-Resources-Collection (工具箱)**
-    * 好用的 Web3 插件推荐
-    * 必读白皮书清单
+| 模块 | 适合谁 | 内容 |
+|------|--------|------|
+| 🌱 **[00-Start-Here](./00-Start-Here/README.md)** | **新人必读** | Web3 基础概念、术语表、钱包安全与防骗 |
+| 📊 **[01-OnChain-Analysis](./01-OnChain-Analysis/README.md)** | **数据分析师** | Dune SQL 教程、链上分析工具与方法 |
+| 📝 **[02-Investment-Research](./02-Investment-Research/README.md)** | **投研爱好者** | 项目研报模板、赛道分析、代币经济学 |
+| 🧰 **[03-Resources-Collection](./03-Resources-Collection/README.md)** | **所有人** | 必备工具清单、推荐阅读、优质社区 |
+
+> 💡 **不知道从哪开始？** → 进入 [🌱 新手入门](./00-Start-Here/README.md)
 
 ## 🚀 如何开始阅读
 
-* **网页版阅读（推荐）：** 访问我们的 GitBook 页面 [在此处填入你的GitBook链接] 获得最佳阅读体验。
+* **网页版阅读（推荐）：** 访问我们的 [GitBook 在线文档](https://akasha-insight.gitbook.io)（筹备中）获得最佳阅读体验。
 * **仓库阅读：** 直接点击上方文件夹浏览 Markdown 源文件。
 
 ## 🤝 如何参与贡献
