@@ -1,140 +1,135 @@
-# 🤝 欢迎贡献！(Contributing Guide)
+# 🤝 贡献指南 (Contributing Guide)
 
-> **这是属于大家的资源库**——每个人都能贡献一份力量 💪
+> **宁缺毋滥** — 这个仓库的每一条内容都应有它的分量。
 
-无论你是 Web3 大佬还是刚入门的新人，只要有好资源、好内容，都欢迎加进来！**你不需要会 Git**，用 GitHub 网页也能提交。
+感谢你想为 Akasha-Insight 添砖加瓦。在贡献之前，请理解我们的理念：
 
----
-
-## 📂 先看看——你的资源该放哪？
-
-| 你的资源类型 | 放这里 |
-|-------------|--------|
-| Web3 基础教程、概念解释 | [`00-Start-Here/`](./00-Start-Here/) |
-| 区块链原理、术语科普 | [`00-Start-Here/web3-basics/`](./00-Start-Here/web3-basics/) |
-| 钱包安全、防骗指南 | [`00-Start-Here/wallet-security/`](./00-Start-Here/wallet-security/) |
-| Dune SQL 查询、看板教程 | [`01-OnChain-Analysis/dune-analytics/`](./01-OnChain-Analysis/dune-analytics/) |
-| Nansen / Arkham 分析技巧 | [`01-OnChain-Analysis/nansen-arkham/`](./01-OnChain-Analysis/nansen-arkham/) |
-| 链上分析工具教程 | [`01-OnChain-Analysis/tools/`](./01-OnChain-Analysis/tools/) |
-| 项目研报/深度分析 | [`02-Investment-Research/`](./02-Investment-Research/) |
-| DeFi / GameFi / Infra 赛道 | [`02-Investment-Research/defi/`](./02-Investment-Research/defi/) |
-| 代币经济学分析 | [`02-Investment-Research/tokenomics/`](./02-Investment-Research/tokenomics/) |
-| L1/L2 基础设施分析 | [`02-Investment-Research/infrastructure/`](./02-Investment-Research/infrastructure/) |
-| 好用工具推荐 | [`03-Resources-Collection/essential-tools.md`](./03-Resources-Collection/essential-tools.md) |
-| 必读白皮书/书单 | [`03-Resources-Collection/must-read-whitepapers.md`](./03-Resources-Collection/must-read-whitepapers.md) |
-| 优质社区/Discord/Twitter | [`03-Resources-Collection/communities.md`](./03-Resources-Collection/communities.md) |
-
-> 💡 **不确定放哪？** 直接新建一个 Issue 告诉我们，或者先随便放，审核时会帮你调整！
+🚫 **我们拒绝**：随手丢个链接、AI 批量生成的垃圾内容、搬运工式的"伪贡献"
+✅ **我们欢迎**：深度原创、精心整理、真正有价值的资源沉淀
 
 ---
 
-## 🛠 贡献方式（由易到难）
+## 📂 目录结构
 
-### 😎 方式一：在网页上直接编辑（不需要装 Git！）
-
-> 适合：修改错别字、补充内容、更新链接
-
-1. 打开你想修改的文件 👉 点右上角 ✏️ 编辑按钮
-2. 改完后在页面底部写清楚改了啥
-3. 选择「Create a new branch」→ 提交 Pull Request
-4. ✅ 完事！
-
-### 🚀 方式二：上传新文件（网页操作）
-
-> 适合：分享你的教程、研报、工具清单
-
-1. 进入对应目录（比如 `01-OnChain-Analysis/dune-analytics/`）
-2. 点右上角 **Add file** → **Create new file** 或 **Upload files**
-3. 按下面的模板写内容
-4. 提交 PR
-
-### 💻 方式三：标准 Git 工作流
-
-> 适合：批量上传、经常贡献的老手
-
-```bash
-# 1. Fork 本仓库
-# 2. Clone 你的 Fork
-git clone https://github.com/你的用户名/Akasha-Insight-Library.git
-cd Akasha-Insight-Library
-
-# 3. 创建新分支
-git checkout -b add/my-awesome-resource
-
-# 4. 添加文件或修改
-# 5. 提交
-git add .
-git commit -m "Add: 我分享的资源名称"
-
-# 6. 推送并提交 PR
-git push origin add/my-awesome-resource
-# 然后在 GitHub 上创建 Pull Request
-```
+| 目录 | 收录标准 |
+|------|---------|
+| [`00-Start-Here/`](./00-Start-Here/) | **原创或精译**的新手教程，附带你自己的理解和经验 |
+| [`01-OnChain-Analysis/`](./01-OnChain-Analysis/) | 链上分析实战技巧、Dune 看板、数据解读方法论 |
+| [`02-Investment-Research/`](./02-Investment-Research/) | **深度研报**，包含数据验证和独立观点 |
+| [`03-Resources-Collection/`](./03-Resources-Collection/) | 经过**亲自验证**好用才推荐，附使用体验和评价 |
 
 ---
 
-## 📝 内容模板（复制用）
+## 什么内容值得提交？
 
-### 分享一篇教程/文章
+### ✅ 高质量贡献示例
 
-```markdown
-# 标题
+| 类型 | 合格标准 | 例子 |
+|------|---------|------|
+| **教程** | 你自己写过/用过，有实操截图和代码 | 不是翻译别人的，是有你经验在里面的 |
+| **研报** | 有数据支撑、有独立观点、有风险提示 | 不是看一眼白皮书就写的 |
+| **工具推荐** | 你**亲自用过至少一周**，能说出优缺点 | 不是从别人文章里复制粘贴的 |
+| **翻译** | 获得原作者授权，附原文链接 | 精译而非机翻，专业术语准确 |
 
-> 一句话说明这篇教程教什么
+### ❌ 不接受的贡献
 
-## 背景
-为什么这个主题重要？
-
-## 正文
-你的内容...
-
-## 参考链接
-- [链接1](url)
-- [链接2](url)
-
----
-
-> 贡献者：@你的名字
-```
-
-### 推荐一个工具
-
-直接在 [`essential-tools.md`](./03-Resources-Collection/essential-tools.md) 里按表格格式加一行即可。
-
----
-
-## 🚫 安全红线
-
-| 禁止事项 | 说明 |
+| 拒绝类型 | 理由 |
 |---------|------|
-| ❌ 带返佣链接 | 禁止植入 Referral 链接，除非特别标注 |
-| ❌ 钓鱼链接 | 提交链接前请用 DefiLlama / CoinGecko 验证 |
-| ❌ 恶意脚本 | 代码中不得包含私钥窃取逻辑 |
-| ❌ 未授权翻译 | 翻译他人作品需注明原作者授权 |
+| 纯链接合集 | 没有说明为什么有用，没有使用体验 |
+| AI 批量生成的内容 | 缺乏深度和独到见解 |
+| 搬运其他平台的文章 | 除非是原创作者本人投稿 |
+| 未经验证的工具推荐 | 你都没用过，怎么知道好不好？ |
+| 带返佣/推广链接 | 社区信任比流量重要 |
 
 ---
 
-## ⏳ 提交流程
+## 贡献方式
+
+### 方式一：提交 Issue 建议（推荐先讨论）
+
+> 不确定你的内容是否合适？先开个 Issue 聊聊
+
+1. 点 **[New Issue](https://github.com/Akasha-Insight/Akasha-Insight-Library/issues/new)** → 选择「资源建议」
+2. 说明你想贡献什么内容
+3. 维护团队会评估并回复
+4. 达成一致后再动手写
+
+### 方式二：提交 Pull Request
+
+#### 如果你熟悉 Git
+```bash
+git clone https://github.com/Akasha-Insight/Akasha-Insight-Library.git
+cd Akasha-Insight-Library
+git checkout -b add/your-content-name
+# 添加文件 → commit → push
+git push origin add/your-content-name
+# 在 GitHub 上创建 PR
+```
+
+#### 如果你不熟悉 Git
+GitHub 网页端可以直接编辑或上传文件，然后提交 PR。但**建议先开 Issue 讨论**。
+
+---
+
+## 📝 内容质量标准
+
+### 所有提交的内容必须满足
+
+- [ ] 内容有**原创成分**（你的经验、观点、整理）
+- [ ] 不是纯 AI 输出（可以有 AI 辅助，但要有人类编辑的痕迹）
+- [ ] 工具/资源链接**你亲自验证过**
+- [ ] 翻译内容已获原作者授权
+- [ ] 排版整洁，使用标准 Markdown
+- [ ] 文件名英文连字符格式（如 `my-guide.md`）
+
+### 理想情况下还有
+
+- [ ] 附上你的使用体验/踩坑经验
+- [ ] 注明适用的读者水平（新手/进阶）
+- [ ] 最后更新日期
+
+---
+
+## ⏳ 审核流程
 
 ```
-提交 PR → 48h 内审核 → 合并 / 反馈修改建议 → 合并后社区公告 @你
+提交 PR → 48h 内初审 → 内容质量评估 → 修改/完善 → 合并
 ```
 
-| 状态 | 说明 |
-|------|------|
-| 🟢 已合并 | 你的内容已加入知识库，感谢贡献！ |
-| 🟡 需修改 | 审查员会在 PR 里留言，改完即可合并 |
-| 🔴 被关闭 | 可能内容重复/不符合方向/违反安全红线 |
+### 审核标准
+
+| 维度 | 权重 | 说明 |
+|------|------|------|
+| **原创性** | ⭐⭐⭐⭐⭐ | 有独到的经验/见解，非搬运 |
+| **实用性** | ⭐⭐⭐⭐ | 读者能立刻用上 |
+| **准确性** | ⭐⭐⭐⭐ | 数据和链接准确无误 |
+| **完整性** | ⭐⭐⭐ | 结构完整，有头有尾 |
+| **排版** | ⭐⭐ | 清晰易读 |
+
+> 只有**至少 3 项达标**的内容才会被合并。
 
 ---
 
-## 🌟 贡献者荣誉
+## 🌟 贡献者体系
 
-每次 PR 被合并，你会被记录在贡献者名单中！累计贡献：
-- 🥉 3次 → 社区贡献者徽章
-- 🥈 10次 → 核心贡献者身份
-- 🥇 20次 → 维护者邀请
+我们采用**积分制**，确保"贡献者"称号有分量。
+
+| 等级 | 积分 | 要求 | 权益 |
+|------|------|------|------|
+| 🥉 **贡献者** | 3分 | 3 篇优质内容被合并 | 列入贡献者名单 |
+| 🥈 **核心贡献者** | 10分 | 持续输出高质量内容 | 优先审核通道 |
+| 🥇 **维护者** | 20分 | 深度参与社区建设 | 直接合并权限 |
+
+**积分计算：**
+- 深度教程/研报（>1000字，有原创观点）→ **2分**
+- 一般补充/整理/工具推荐 → **1分**
+- 修正错别字/断链 → **0.5分**
+- 纯链接提交 → **不计分**
 
 ---
 
-**感谢你让这个知识库变得更好！一起打造最棒的 Web3 资源库 🚀**
+> **最后的话：**
+>
+> 我们不需要 1000 个随便丢链接的 contributor。
+> 我们需要 10 个真正懂、真正用、真正愿意分享的人。
+> 如果你属于后者——欢迎你 🤝

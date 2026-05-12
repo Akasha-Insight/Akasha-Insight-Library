@@ -27,18 +27,18 @@
 * **网页版阅读（推荐）：** 访问我们的 [GitBook 在线文档](https://akasha-insight.gitbook.io)（筹备中）获得最佳阅读体验。
 * **仓库阅读：** 直接点击上方文件夹浏览 Markdown 源文件。
 
-## 🤝 一起建设这个知识库
+## 🤝 共同建设这个知识库
 
-人人可参与！无论你是想：
+这个仓库追求**有分量的内容**，而非廉价的数量。如果你：
 
-1. ✏️ **修正一个拼写错误** — 1 分钟搞定
-2. 📊 **分享你写的 Dune 看板教程** — 帮助更多人
-3. 📝 **上传一份深度的项目研报** — 展示你的分析能力
-4. 🔧 **推荐一个好用的 Web3 工具** — 大家正需要
+1. ✏️ **有 Web3 实战经验** — 写一篇带心得的教程
+2. 📊 **做过深度链上分析** — 分享你的方法论和看板
+3. 📝 **写过高质量的项目研报** — 上传到投研中心
+4. 🔧 **亲自验证过好用的工具** — 推荐给社区并附上使用体验
 
-> 👉 **[查看完整贡献指南 →](./CONTRIBUTING.md)** 不会 Git 也能用网页提交！
+> 👉 **[查看贡献指南 →](./CONTRIBUTING.md)** 了解我们的品质标准
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](./CONTRIBUTING.md) [![贡献者](https://img.shields.io/badge/贡献者-你-ff69b4)](./CONTRIBUTING.md)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](./CONTRIBUTING.md)
 
 > 🏆 **激励计划：** 只要你的 PR 被合并，你将成为 Akasha-Insight 的贡献者。累计贡献达到一定质量，将有机会获得社区专属 NFT 徽章及 discord 身份组！
 
