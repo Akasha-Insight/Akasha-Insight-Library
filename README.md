@@ -49,3 +49,4 @@
 ---
 
 *由 Akasha-Insight 社区共同维护 ❤️*
+# Sync trigger
