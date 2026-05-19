@@ -52,6 +52,26 @@
 | [Birdeye](https://birdeye.so) | Solana 代币 K 线 + 分析 | 免费 | ⭐⭐⭐⭐ |
 | [Zapper](https://zapper.fi) | 多链 DeFi 持仓管理 | 免费 | ⭐⭐⭐⭐ |
 
+## 🆕 2026 新兴热门工具
+
+| 工具 | 用途 | 费用 | 推荐 |
+|------|------|------|------|
+| [Hyperliquid](https://hyperliquid.xyz) | 去中心化永续合约交易所，L1 自建链 | 免费 | ⭐⭐⭐⭐⭐ |
+| [Polymarket](https://polymarket.com) | 去中心化预测市场，链上真实信息 | 免费 | ⭐⭐⭐⭐ |
+| [Pump Analyzer](https://github.com/happyboy4ty25/pump-analyzer) | Pump.fun 代币实时监控与分析 | 开源免费 | ⭐⭐⭐⭐ |
+| [Swapper Toolkit](https://github.com/swapperfinance/swapper-toolkit) | AI Agent DeFi 工具包，自动交易 | 开源免费 | ⭐⭐⭐ |
+| [Omniclaw](https://github.com/omnuron/omniclaw) | Agentic 支付网络，无 Gas 交易 | 开发中 | ⭐⭐⭐ |
+| [IntentKit](https://github.com/crestalnetwork/intentkit) | 开源自主 Agent 集群管理框架 | 开源免费 | ⭐⭐⭐⭐ |
+
+## 🤖 AI + Web3 工具
+
+| 工具 | 用途 | 推荐 |
+|------|------|------|
+| [WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity) | Solidity 极简入门教程（13K+⭐） | ⭐⭐⭐⭐⭐ |
+| [Cyfrin Security Course](https://github.com/Cyfrin/security-and-auditing-full-course-s23) | Web3 安全审计完整课程 | ⭐⭐⭐⭐⭐ |
+| [full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js) | JS 版全栈 Web3 开发教程 | ⭐⭐⭐⭐⭐ |
+| [Plamen](https://github.com/PlamenTSV/plamen) | 自主 Web3 安全审计 AI Agent | ⭐⭐⭐ |
+
 ---
 
 > 💡 **初学者建议：** 先从免费的 Dune + DefiLlama + CoinGecko 开始，基本够用

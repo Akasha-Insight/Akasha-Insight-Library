@@ -12,6 +12,16 @@
 | **Ethereum Research** | 以太坊核心研究讨论 | [加入](https://discord.gg/ethereum-research) |
 | **Bankless** | DeFi 和 Web3 入门社区 | [加入](https://discord.gg/bankless) |
 | **Uniswap** | 最大 DEX 的官方社区 | [加入](https://discord.gg/uniswap) |
+| **Hyperliquid** | 顶级去中心化衍生品社区 | [加入](https://discord.gg/hyperliquid) |
+| **Polymarket** | 去中心化预测市场社区 | [加入](https://discord.gg/polymarket) |
+
+## 🤖 AI x Web3 社区
+
+| 社区 | 说明 | 链接 |
+|------|------|------|
+| **WTF Academy** | Solidity 中文教学社区，13K+ ⭐ | [加入](https://github.com/AmazingAng/WTF-Solidity) |
+| **Cyfrin** | Web3 安全审计教学社区 | [加入](https://discord.gg/cyfrin) |
+| **Ethereum Cat Herders** | 以太坊生态协调社区，适合贡献者 | [加入](https://discord.gg/ethereum-cat-herders) |
 
 ## 🐦 Twitter / X 关注列表
 

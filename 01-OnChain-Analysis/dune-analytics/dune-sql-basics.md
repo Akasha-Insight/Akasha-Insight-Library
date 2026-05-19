@@ -104,6 +104,38 @@ ORDER BY block_time DESC
 LIMIT 20
 ```
 
+### 📈 查询协议收入 Top 10（日活）
+
+```sql
+SELECT
+  protocol,
+  SUM(daily_revenue) AS total_revenue_7d
+FROM (
+  SELECT protocol, daily_revenue
+  FROM dune.result_xxxx  -- 替换为实际看板ID
+)
+GROUP BY protocol
+ORDER BY total_revenue_7d DESC
+LIMIT 10
+```
+
+### 🆕 追踪新部署合约（发现早期标的）
+
+```sql
+-- Ethereum 最近 1 小时新合约部署
+SELECT
+  block_time,
+  `from` AS deployer,
+  address AS contract_address,
+  tx_hash
+FROM ethereum.traces
+WHERE
+  block_time > NOW() - INTERVAL '1' HOUR
+  AND `type` = 'create'
+ORDER BY block_time DESC
+LIMIT 50
+```
+
 ---
 
 ## 4. Dune 实用技巧
@@ -114,6 +146,18 @@ LIMIT 20
 | **分区裁剪** | 始终加 `block_time` 过滤——大幅加速，省 credits |
 | **JOIN 价格表** | 用 `prices.usd` 把代币数量转成 USD 估值 |
 | **Fork 看板** | 看到好的公开看板直接 Fork，在此基础上改 |
+| **使用 `evt_` 表** | Dune 自动解码的事件表，比手动解析 ABI 快 10 倍 |
+| **关注 Solana** | Dune 现在也支持 Solana 数据，用 `solana` 前缀表 |
+
+## 6. 推荐查询思路（从想法到看板）
+
+```
+1️⃣ 明确问题 → "过去 7 天哪个协议的 Gas 消耗最多？"
+2️⃣ 找数据源 → ethereum.transactions + prices.usd
+3️⃣ 写初步查询 → 先用 LIMIT 10 验证逻辑
+4️⃣ 可视化 → 在 Dune 中把结果转成柱状图/折线图
+5️⃣ 迭代 → 加过滤条件、加时间对比、加异常标注
+```
 
 ---
 

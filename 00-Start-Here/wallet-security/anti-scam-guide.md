@@ -76,6 +76,25 @@ Discord/Telegram 里冒充管理员私信你"帮忙解决问题"。
 | Honeypot.is | 检测是否貔貅盘 | [打开](https://honeypot.is) |
 | RugDoc | 项目安全评分 | [打开](https://rugdoc.io) |
 | GoPlus | 代币安全检测 | [打开](https://gopluslabs.io) |
+| **Wallet Drainer Detector** (Pocket Universe) | 检测恶意 DApp 授权 | [打开](https://pocketuniverse.app) |
+
+## 🚨 2026 年新型骗局预警
+
+### 🧠 AI 深度伪造诈骗
+攻击者用 AI 生成知名 KOL/项目方的视频、语音通话，诱导你转账或授权。
+> **防御：** 凡是涉及资金的"视频/语音验证"，**挂断后通过官方渠道回拨确认**
+
+### 📝 Permit 签名钓鱼
+利用 EIP-2612 Permit 功能，让你"签名"一个看似无害的消息，实际授权它花光你的 USDT/ETH。
+> **防御：** 使用 Rabby 钱包（自动识别 Permit 签名风险），**永不签看不懂的盲签**
+
+### 🎣 空投钓鱼新花样
+伪造知名项目空投领取页面（如 Hyperliquid、Polymarket），引导你连接钱包并执行"领取"操作，实际上是 Approve 钓鱼。
+> **防御：** 只从项目官网或 CoinGecko/DefiLlama 确认的链接进入，**绝不通过 Google 搜索的广告链接进入**
+
+### 🔄 跨链桥虚假提示
+伪造跨链失败页面，诱导你重复签名授权。
+> **防御：** 跨链失败找官方支持，**不要点击任何"手动重试"的弹窗链接**
 
 ---
 

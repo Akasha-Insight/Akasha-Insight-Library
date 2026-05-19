@@ -26,9 +26,12 @@
 | 页面 | 说明 |
 |------|------|
 | [项目研报标准模板](./project-research-template.md) | 可复用的研报模板，涵盖上述 8 个维度 |
+| [📊 市场周报 W21 2026](./market-trends-w21-2026.md) | 本周市场概况、赛道动态、链上数据趋势 |
 
 *更多赛道分析（DeFi / Infra / Tokenomics）持续添加中...*
 
 ---
 
 > 👉 **开始使用：** [项目研报标准模板 →](./project-research-template.md)
+
+> 📅 最后更新: 2026-05-19 (Week 21)

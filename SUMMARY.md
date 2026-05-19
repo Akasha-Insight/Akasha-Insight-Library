@@ -13,6 +13,7 @@
 ## 📝 投研中心
 * [📝 投研中心概览](02-Investment-Research/README.md)
 * [项目研报标准模板](02-Investment-Research/project-research-template.md)
+* [📊 市场周报 W21 2026](02-Investment-Research/market-trends-w21-2026.md)
 
 ## 🧰 工具箱
 * [🧰 工具箱概览](03-Resources-Collection/README.md)
