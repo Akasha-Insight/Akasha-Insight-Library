@@ -62,6 +62,7 @@
 | [Swapper Toolkit](https://github.com/swapperfinance/swapper-toolkit) | AI Agent DeFi 工具包，自动交易 | 开源免费 | ⭐⭐⭐ |
 | [Omniclaw](https://github.com/omnuron/omniclaw) | Agentic 支付网络，无 Gas 交易 | 开发中 | ⭐⭐⭐ |
 | [IntentKit](https://github.com/crestalnetwork/intentkit) | 开源自主 Agent 集群管理框架 | 开源免费 | ⭐⭐⭐⭐ |
+| [NEAR AI](https://near.ai) | NEAR 生态 AI Agent 基础设施 | 免费 | ⭐⭐⭐⭐ |
 
 ## 🤖 AI + Web3 工具
 
@@ -71,6 +72,7 @@
 | [Cyfrin Security Course](https://github.com/Cyfrin/security-and-auditing-full-course-s23) | Web3 安全审计完整课程 | ⭐⭐⭐⭐⭐ |
 | [full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js) | JS 版全栈 Web3 开发教程 | ⭐⭐⭐⭐⭐ |
 | [Plamen](https://github.com/PlamenTSV/plamen) | 自主 Web3 安全审计 AI Agent | ⭐⭐⭐ |
+| [NEAR Protocol](https://near.org) | AI 优先 L1 公链，2026 年 AI x Web3 核心叙事 | ⭐⭐⭐⭐ |
 
 ---
 
